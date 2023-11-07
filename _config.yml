@@ -49,13 +49,16 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Example
+  - title:             Home
     url:               /example/
-  - title:             Documentation
+  - title:             Research
     url:               /docs/
-  - title:             About
+  - title:             Teaching
     url:               /about/
-
+  - title:             Expository
+    url:               /about/
+  - title:             Other Links
+    url:               /about/
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
 legal:
