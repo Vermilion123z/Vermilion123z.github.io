@@ -1,21 +1,16 @@
 ---
-# Featured tags need to have either the `list` or `grid` layout (PRO only).
-layout: grid
-
-# The title of the tag's page.
-title: Home
-
-# The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: Home
-
-# (Optional) Write a short (~150 characters) description of this featured tag.
+layout: page
+title: Documentation
 description: >
-  Hello，this is xxx
-
-# (Optional) You can disable grouping posts by date.
-# no_groups: true
-
-# Exclude this example category from the sitemap.
-# DON'T USE THIS SETTING IN YOUR CATEGORIES!
-# sitemap: false
+  Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
+hide_description: true
+sitemap: false
+permalink: /docs/
 ---
+
+Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
+Should you think something is missing, [please let me know](mailto:mail@qwtel.com).
+Should you discover a mistake in the docs (or a bug in general) feel free to [open an issue](https://github.com/hydecorp/hydejack/issues) on GitHub.
+
+While this manual tries to be beginner-friendly, as a user of Jekyll it is assumed that you are comfortable running shell commands and editing text files.
+{:.note}
