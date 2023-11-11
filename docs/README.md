@@ -1,12 +1,13 @@
 ---
 layout: page
-title: Documentation
+title: Research
 description: >
   Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
 hide_description: true
 sitemap: false
 permalink: /docs/
 ---
+I am currently interested in eepresentation theory of quantum groups, Lie algebras and related topics.
 
 Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
 Should you think something is missing, [please let me know](mailto:mail@qwtel.com).
@@ -16,13 +17,15 @@ While this manual tries to be beginner-friendly, as a user of Jekyll it is assum
 {:.note}
 
 
-## Getting started
+## Papers
 * [Install]{:.heading.flip-title} --- How to install and run Hydejack.
 * [Upgrade]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.
 * [Config]{:.heading.flip-title} --- Once Jekyll is running you can start editing your config file.
 {:.related-posts.faded}
 
-## Using Hydejack
+## Talks
+On a matrix problem based on bilinear forms（online），NCSU REU Presentation，July 2021 Poster（Link）![image](https://github.com/Vermilion123z/Vermilion123z.github.io/assets/149482789/84a657c7-2188-4431-9707-0d838e8450f2)
+
 * [Basics]{:.heading.flip-title} --- How to add different types of content.
 * [Writing]{:.heading.flip-title} --- Producing markdown content for Hydejack.
 * [Scripts]{:.heading.flip-title} --- How to include 3rd party scripts on your site.
@@ -30,7 +33,7 @@ While this manual tries to be beginner-friendly, as a user of Jekyll it is assum
 * [Advanced]{:.heading.flip-title} --- Guides for more advanced tasks.
 {:.related-posts.faded}
 
-## Other
+## Theses
 * [LICENSE]{:.heading.flip-title} --- The license of this project.
 * [NOTICE]{:.heading.flip-title} --- Parts of this program are provided under separate licenses.
 * [CHANGELOG]{:.heading.flip-title} --- Version history of Hydejack.
