@@ -50,11 +50,11 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             Home
-    url:               /example/
+    url:               /home/
   - title:             Research
     url:               /docs/
   - title:             Teaching
-    url:               /example/
+    url:               /teaching/
   - title:             Expository
     url:               /expository/
   - title:             Other Links
