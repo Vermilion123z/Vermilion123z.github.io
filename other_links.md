@@ -9,11 +9,11 @@ sitemap: false
 
 Here you can find some other links about me,
 
-[Math Review](https://www.ams.org/mr-database)
+- [Math Review](https://www.ams.org/mr-database)
 
-[Involve](https://msp.org/involve/about/journal/about.html)
+- [Involve](https://msp.org/involve/about/journal/about.html)
 
-[Northeastern University](http://cos.neu.edu.cn)
+- [Northeastern University](http://cos.neu.edu.cn)
 
-[National University of Singapore](https://www.math.nus.edu.sg)
+- [National University of Singapore](https://www.math.nus.edu.sg)
 
