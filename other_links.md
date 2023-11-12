@@ -8,8 +8,8 @@ sitemap: false
 ---
 
 Here you can find some other links about me,
-[AMS::Mathematical Reviews](https://www.ams.org/mr-database),
-[Involve - a journal of matematics(msp.org)](https://msp.org/involve/about/journal/about.html),
-[理学院(neu.edu.cn)](http://cos.neu.edu.cn),
-[NUS Mathematics - Home](https://www.math.nus.edu.sg).
+[AMS::Mathematical Reviews](https://www.ams.org/mr-database)
+[Involve - a journal of matematics(msp.org)](https://msp.org/involve/about/journal/about.html)
+[理学院(neu.edu.cn)](http://cos.neu.edu.cn)
+[NUS Mathematics - Home](https://www.math.nus.edu.sg)
 
