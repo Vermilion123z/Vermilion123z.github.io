@@ -24,7 +24,8 @@ While this manual tries to be beginner-friendly, as a user of Jekyll it is assum
 {:.related-posts.faded}
 
 ## Talks
-On a matrix problem based on bilinear forms（online），NCSU REU Presentation，July 2021 Poster（Link）![image](https://github.com/Vermilion123z/Vermilion123z.github.io/assets/149482789/84a657c7-2188-4431-9707-0d838e8450f2)
+On a matrix problem based on bilinear forms（online），NCSU REU Presentation，July 2021 Poster（Link）<img width="834" alt="image" src="https://github.com/Vermilion123z/Vermilion123z.github.io/assets/149482789/9da3254b-2b74-4c76-bbd6-072f53ab3cdf">
+
 
 * [Basics]{:.heading.flip-title} --- How to add different types of content.
 * [Writing]{:.heading.flip-title} --- Producing markdown content for Hydejack.
