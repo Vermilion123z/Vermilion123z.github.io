@@ -13,6 +13,10 @@ redirect_from:
 
 <!--author-->
 
+## title1
+
+## title2
+
 ## Hydejack
 
 A boutique Jekyll theme for hackers, nerds, and academics.  
