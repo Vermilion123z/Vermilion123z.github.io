@@ -56,7 +56,7 @@ menu:
   - title:             Teaching
     url:               /example/
   - title:             Expository
-    url:               /about/
+    url:               /expository/
   - title:             Other Links
     url:               /other_links/
 # Add links to the footer.
