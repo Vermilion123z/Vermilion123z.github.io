@@ -8,11 +8,12 @@ sitemap: false
 ---
 
 Here you can find some other links about me,
-[AMS::Mathematical Reviews](https://www.ams.org/mr-database)
 
-[Involve - a journal of matematics(msp.org)](https://msp.org/involve/about/journal/about.html)
+[Math Review](https://www.ams.org/mr-database)
 
-[理学院(neu.edu.cn)](http://cos.neu.edu.cn)
+[Involve](https://msp.org/involve/about/journal/about.html)
 
-[NUS Mathematics - Home](https://www.math.nus.edu.sg)
+[Northeastern University](http://cos.neu.edu.cn)
+
+[National University of Singapore](https://www.math.nus.edu.sg)
 
