@@ -24,7 +24,7 @@ While this manual tries to be beginner-friendly, as a user of Jekyll it is assum
 {:.related-posts.faded}
 
 ## Talks
-On a matrix problem based on bilinear forms（online），NCSU REU Presentation，July 2021 Poster[Link](Poster_link.pdf)
+On a matrix problem based on bilinear forms（online），NCSU REU Presentation，July 2021 Poster[Link](Poster_Link.pdf)
 
 
 * [Basics]{:.heading.flip-title} --- How to add different types of content.
